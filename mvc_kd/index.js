@@ -49,4 +49,4 @@ app.listen(PORT, () => {
 `
 );
 
-console.log("Project created successfully!");
+console.log("Project created successfully! Navigate to " + projectName + " and run 'npm init -y' to initialize the project.");  
